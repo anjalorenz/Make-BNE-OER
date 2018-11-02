@@ -3,11 +3,11 @@ layout: page
 title: "Leitfragen zur Reflexion"
 module: "1.1"
 date: 2016-10-06 14:05:56
-time: "20 mins"
+time: "20 Min"
 following: _articles/konzipiere-dein-bildungsmaterial/theoretische-modelle.md
-summary: "This module explains a bit about Mozilla’s history with working open, and introduces Mozilla’s Network."
-prereq: "Have read the Series README file"
-format: "Read and watch videos on this topic"
+summary: "In dieser Einheit laden wir Dich zur Reflexion über Deinen geplanten Bildungsinhalt ein."
+prereq: "Du hast Dich in der Rubrik 'Übersicht über die Kursinhalte' grundsätzlich über OER informiert."
+format: "Texte lesen und Reflexionsfragen beantworten"
 materials: "None"
 ---
 
