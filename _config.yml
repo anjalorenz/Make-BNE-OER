@@ -1,7 +1,7 @@
-title: Open Leadership Training Series
+title: Schritt für Schritt zum eigenen OER
 subtitle:
-email: abby@mozillafoundation.org
-twitter: https://twitter.com/MozOpenLeaders
+email: nele@ebildungslabor.de
+twitter: https://twitter.com/eBildungslabor
 chat: https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects
 description: > # this means to ignore newlines until "baseurl:"
   Does your MozFest session involve hands-on, project based learning? This
@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/open-leadership-training-series" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
-  repo: "mozilla/open-leadership-training-series"
+  repo: "ebildungslabor/make-your-oer"
   branch: "gh-pages"
 
 
