@@ -2,12 +2,12 @@
 layout: home
 ---
 
-This Open Leadership Training Series teaches you best practices in “working open” -- a way of working where:
+Dieser Mini-Online-Kurs MakOER führt Dich Schritt-für-Schritt zu Deinem eigenen OER. Du benötigst dazu keinerlei Vorkenntnisse. 
+(Wir erklären Dir auch, für was die Abkürzung OER überhaupt steht).
 
-* **_everyone_ is invited to collaborate on something amazing,**
-* **and any new product or knowledge is shared widely and freely.**
+Der Kurs ist konzipiert für Bildungsakteure in zivilgesellschaftlichen Organisationen, aber kann selbstverständlich auch von allen anderen Interessierten genutzt werden.
 
-This is for anyone starting up or leading open projects-- project leads, collaborators, or small groups of co-leaders responsible for project success and growth.
+
 
 
 
