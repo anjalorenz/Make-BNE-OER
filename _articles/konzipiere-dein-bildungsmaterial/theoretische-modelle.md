@@ -4,7 +4,7 @@ title: "Theoretische Modelle für zeitgemäße Bildungsmaterialien"
 module: "1.2"
 date: 2016-10-06 14:05:56
 time: "10 min"
-following: _articles/introduction-to-open-leadership/understanding-the-project-lead-role.md
+following: _articles/konzipiere-dein-bildungsmaterial/inspiration.md
 summary: "This module introduces you to the basic concepts of working open."
 materials: None
 format: Read and watch videos on this topic
