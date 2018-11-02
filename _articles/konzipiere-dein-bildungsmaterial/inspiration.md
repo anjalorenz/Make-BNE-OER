@@ -4,7 +4,7 @@ title: "Inspiration zu zeitgemäßen Bildungsmaterialien"
 module: "1.4"
 date: 2016-10-06 14:05:56
 time: "15 mins"
-following: _articles/opening-your-project.md
+following: _articles/konzipiere-dein-bildungsmaterial/eigene-zielformulierung.md
 summary: "Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format."
 prereq: "Have completed previous modules in this section"
 format: >
