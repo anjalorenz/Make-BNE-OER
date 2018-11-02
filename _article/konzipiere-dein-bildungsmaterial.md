@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Intro to Open Leadership"
+title: "Konzipiere Dein Bildungsmaterial"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
