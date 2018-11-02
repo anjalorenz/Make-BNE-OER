@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "README"
+title: "Überblick über die Kursinhalte"
 following: _articles/introduction-to-open-leadership.md
 ---
 
-### Intro to the Open Leadership Series (Series README)
+### Um was geht es im Online-Kurs MakOER?
 
 This Open Leadership Training Series is designed to teach you best practices in  “working open” -- a way of working in which:
 
