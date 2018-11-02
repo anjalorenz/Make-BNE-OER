@@ -4,28 +4,25 @@ title: "Überblick über die Kursinhalte"
 following: _articles/introduction-to-open-leadership.md
 ---
 
-### Um was geht es im Online-Kurs MakOER?
+### Um was geht es im Online-Kurs *MakOER*?
 
-This Open Leadership Training Series is designed to teach you best practices in  “working open” -- a way of working in which:
+OER ist die Abkürzung für Open Educational Resources (= offene/ freie Bildungsmaterialien).
 
-* **a community of people collaborate to make or build something amazing,**
-* **and any product or knowledge that the community of collaborators creates is shared widely and freely with the public on the world wide web.**
+Der zentrale Unterschied zwischen einem OER und einem traditionellen Bildungsmaterial ist die Art und Weise der Veröffentlichung:
+* ein OER ist unter einer freien Lizenz veröffentlicht. Hier haben sich die so genannten 
+* ein traditionelles Bildungsmaterial ist proprietär. 
 
-This training is designed for those starting up or currently leading open projects-- project leads, partners, or small groups of co-leaders responsible for project success and growth.
+Ein traditionelles Bildungsmaterial ist damit kaum weiter nutzbar. Es gelten die engen Schranken des Urheberrechts.  Bei OER sind diese Schranken mithilfe der offenen Lizenz dagegen gelockert. Man darf ein OER verwenden, vervielfältigen, verarbeiten, verbreiten und veröffentlichen. Als offene Lizenz werden in der Regel die Creative Commons Lizenzen (abgekürzt: CC) verwendet.
 
-This training was developed by the non-profit Mozilla Foundation, with help from members of the broader Mozilla Community. You may recognize the name Mozilla-- we’re a group of people, organized as a non-profit, public charity-- that makes the Firefox web browser and champions a free and open web for all. Mozilla’s Firefox is an open source project, which means the source code is freely, publicly available and anyone who would like to can help develop the project. To create this training, we drew on our many years of experience leading open projects.
+In diesem Mini-Online-Kurs lernst Du Schritt für Schritt Dein eigenes OER zu erstellen. Das Ziel ist dabei nicht, ein traditionelles Bildungsmaterial mit einer offenen Lizenz umzuetikettieren. Stattdessen möchten wir Dich dabei unterstützen, von Beginn an, das Potential von OER für zeitgemäßes Lehren und Lernen in Form einer offenen Bildungspraxis zur Umsetzung zu bringen.
 
-The training consists of nine sections, each containing a set of modules on a topic related to working open. In each module, you’ll learn by reading, watching short videos created by Mozilla staff and community members, and completing hands-on assignments. The assignments build on each other, so this training works best if you do the modules in order.  The nine sections are:
+Dazu haben wir 5 Lerneinheiten gestaltet, die Du am besten in chronologischer Reihenfolge durchgehst:
 
-1. [Introduction to Open Leadership]({{ site.baseurl }}/articles/introduction-to-open-leadership)
-2. [Opening Your Project]({{ site.baseurl }}/articles/opening-your-project)
-3. [Building Communities of Contributors]({{ site.baseurl }}/articles/building-communities-of-contributors)
-4. [Get Your Project Online -- Getting Started with GitHub]({{ site.baseurl }}/articles/get-your-project-online)
-5. [GitHub for Collaboration]({{ site.baseurl }}/articles/github-for-collaboration)
-6. [Open Communications]({{ site.baseurl }}/articles/open-communications)
-7. [Running Awesome Community Events]({{ site.baseurl }}/articles/running-awesome-community-events)
-8. [Open Project Maintenance]({{ site.baseurl }}/articles/open-project-maintenance)
-9. [Open Leadership Outro and Next Steps]({{ site.baseurl }}/articles/open-leadership-outro-and-next-steps)
+1. [Konzipiere Dein Bildungsmaterial]({{ site.baseurl }}/articles/konzipiere-dein-bildungsmaterial)
+2. [Erfinde das Rad nicht neu]({{ site.baseurl }}/articles/erfinde-das-rad-nicht-neu)
+3. [Wähle eine für Dich passende Lizenz]({{ site.baseurl }}/articles/wähle-eine-für-dich-passende-lizenz)
+4. [Gestalte die benötigten neuen Inhalte]({{ site.baseurl }}/gestalte-die-benötigten-neuen-inhalte)
+5. [Veröffentliche und verbreite Dein OER]({{ site.baseurl }}/articles/verbreite-dein-oer)
 
 #### Before you start the training series, you must have:
 
