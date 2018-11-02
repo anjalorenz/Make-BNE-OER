@@ -4,11 +4,11 @@ title: "Konzipiere Dein Bildungsmaterial"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
-  - _articles/introduction-to-open-leadership/introduction-to-working-open.md
-  - _articles/introduction-to-open-leadership/understanding-the-project-lead-role.md
-  - _articles/introduction-to-open-leadership/stating-your-project-vision.md
-following: _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
+  - _articles/konzipiere-dein-bildungsmaterial/leitfragen-zur-reflexion.md
+  - _articles/konzipiere-dein-bildungsmaterial/theoretische-modelle.md
+  - _articles/konzipiere-dein-bildungsmaterial/inspiration.md
+  - _articles/konzipiere-dein-bildungsmaterial/eigene-zielformulierung.md
+following: _articles/konzipiere-dein-bildungsmaterial/leitfragen-zur-reflexion.md
 ---
 
 **Before you start this section, be sure to read the Series README file, for information about how this training series is structured, and what you’ll need to begin.**
