@@ -1,4 +1,4 @@
-title: Schritt für Schritt zum eigenen OER
+title: MakOER - Schritt für Schritt zum eigenen OER
 subtitle:
 email: nele@ebildungslabor.de
 twitter: https://twitter.com/eBildungslabor
@@ -7,10 +7,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Does your MozFest session involve hands-on, project based learning? This
   training is for anyone running an open project at MozFest. This can be
   software, curriculum, or anything you can build together with a group.
-baseurl: "/open-leadership-training-series" # the subpath of your site, e.g. /blog
-url: "https://mozilla.github.io" # the base hostname & protocol for your site
+baseurl: "/makeoer" # the subpath of your site, e.g. /blog
+url: "https://ebildungslabor.github.io" # the base hostname & protocol for your site
 github:
-  repo: "ebildungslabor/make-your-oer"
+  repo: "ebildungslabor/makoer"
   branch: "gh-pages"
 
 
