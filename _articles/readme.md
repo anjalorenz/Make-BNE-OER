@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Überblick über die Kursinhalte"
-following: _articles/introduction-to-open-leadership.md
+following: _articles/konzipiere-dein-bildungsmaterial.md
 ---
 
 ### Um was geht es im Online-Kurs *MakOER*?
