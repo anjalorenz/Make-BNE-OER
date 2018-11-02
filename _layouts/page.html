@@ -20,7 +20,7 @@ layout: default
   {% endif %}
     <div class="col-sm-4">
       {% if page.time %} <time>{{page.time}}</time>{% endif %}
-      <a target="_blank" class="suggest-changes" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Suggest changes</a>
+      <a target="_blank" class="suggest-changes" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Verbesserungen vorschlagen</a>
     </div>
   </div>
   {% if page.format or page.prereq or page.materials %}
@@ -33,13 +33,13 @@ layout: default
     </div>
     <div class="col-sm-4">
       {% if page.prereq %}
-      <h5>Prerequisites</h5>
+      <h5>Vorkenntnisse</h5>
       {{ page.prereq | markdownify }}
       {% endif %}
     </div>
     <div class="col-sm-4">
       {% if page.materials %}
-      <h5>Materials</h5>
+      <h5>Material</h5>
       {{ page.materials | markdownify }}
       {% endif %}
     </div>
@@ -49,7 +49,7 @@ layout: default
 {{ content }}
 
 {% if page.contents %}
-  <h3>In This Section</h3>
+  <h3>In dieser Einheit</h3>
 {% for path in page.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
    <p>
@@ -75,7 +75,7 @@ next:
 
 <p class="help-us">
     <edit></edit>
-    Help us improve content and
-    <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
+    Helfe mit. den Kurs weiter zu entwickeln und 
+    <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">schlage Verbesserungen für diese Seite vor</a>.
 </p>
 </div>
