@@ -3,11 +3,11 @@ layout: page
 title: "Theoretische Modelle für zeitgemäße Bildungsmaterialien"
 module: "1.2"
 date: 2016-10-06 14:05:56
-time: "10 min"
+time: "15 min"
 following: _articles/konzipiere-dein-bildungsmaterial/inspiration.md
-summary: "This module introduces you to the basic concepts of working open."
+summary: "In dieser Lektion erfährst Du etwas zum theoretischen Hintergrund von zeitgemäßen Bildungsmaterialien."
 materials: None
-format: Read and watch videos on this topic
+format: Texte lesen und Videos ansehen
 prereq: "Have read the [Series README file](/open-leadership-training-series/articles/readme)"
 ---
 * TOC
@@ -23,7 +23,7 @@ Welcome! We’re excited that you’re here. In this training series, you’ll l
 The Open Leadership Training Series is designed for those who want to work together with others to create, build, and make amazing stuff-- anything from software projects to learning materials to organizations or advocacy campaigns. As we mentioned in the [Series README]({{ site.baseurl }}/)-- it doesn’t matter if your project aims to teach kids to code in Cleveland or build mobile apps with taxi drivers in Bangladesh, this is a one-size-fits-all resource. Here is one example of how people are working open, in real life, on real projects.
 
 {% include videowrapper.html
-  url="https://www.filepicker.io/api/file/383PaLJiSF68FFgvH5Qb"
+  url="https://www.youtube.com/watch?v=9b5yvgKQdqE"
   title="A Working Open Example - STEMM Role Models, Kirstie Whitaker" %}
 
 ### The Ingredients of an Open Project
