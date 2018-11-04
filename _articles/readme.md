@@ -7,7 +7,7 @@ following: _articles/konzipiere-dein-bildungsmaterial.md
 ### Um was geht es im Online-Kurs *MakOER*?
 
 OER ist die Abkürzung für Open Educational Resources (= offene/ freie Bildungsmaterialien). Der zentrale Unterschied zwischen einem OER und einem traditionellen Bildungsmaterial ist die Art und Weise der Veröffentlichung:
-* ein OER ist unter einer freien Lizenz veröffentlicht. Hier haben sich die so genannten 
+* ein OER ist unter einer freien Lizenz veröffentlicht.
 * ein traditionelles Bildungsmaterial ist proprietär. 
 
 Ein traditionelles Bildungsmaterial ist damit kaum weiter nutzbar. Es gelten die engen Schranken des Urheberrechts.  Bei OER sind diese Schranken mithilfe der offenen Lizenz dagegen gelockert. Man darf ein OER verwenden, vervielfältigen, verarbeiten, verbreiten und veröffentlichen. Als offene Lizenz werden in der Regel die Creative Commons Lizenzen (abgekürzt: CC) verwendet.
@@ -28,8 +28,8 @@ Der Kurs ist so formuliert, dass er auch von digital weniger affinen Menschen er
 
 #### Quellen und Weiternutzungsmöglichkeiten
 
-Das Kurslayout ist übernommen von der gemeinnützigen Mozilla Foundation, die mithilfe dieser Struktur ihren Open Leadership Kurs gestaltet. Veröffentlicht ist der Kurs via Github. Das ermöglicht es Dir erstens, den Kurs komplett zu kopieren und einen eigenen/ anderen/ veränderten Kurs daraus zu machen. Außerdem kannst Du überall Ergänzungen/ Verbesserungen/ Korrekturen vorschlagen. Wir freuen uns, wenn Du auf diese Weise dabei mithilfst, den Kurs besser zu machen.
+Das Kurslayout ist übernommen von der gemeinnützigen Mozilla Foundation, die mithilfe dieser Struktur ihren [Open Leadership Kurs](https://mozilla.github.io/open-leadership-training-series/) gestaltet. Veröffentlicht ist der Kurs via Github. Das ermöglicht es Dir erstens, den Kurs komplett zu kopieren und einen eigenen/ anderen/ veränderten Kurs daraus zu machen. Außerdem kannst Du überall Ergänzungen/ Verbesserungen/ Korrekturen vorschlagen. Wir freuen uns, wenn Du auf diese Weise dabei mithilfst, den Kurs besser zu machen.
 
 #### Lizenz
 
-Die Kursinhalte sinmd gemeinfrei. Sie können ohne Lizenzhinweis weiter genutzt werden. Erstellt wurde der Kurs im November 2018 im eBildungslabor.
+Die Kursinhalte sinmd gemeinfrei. Sie können ohne Lizenzhinweis weiter genutzt werden. Erstellt wurde der Kurs im November 2018 im [eBildungslabor](https://www.ebidungslabor.de).
