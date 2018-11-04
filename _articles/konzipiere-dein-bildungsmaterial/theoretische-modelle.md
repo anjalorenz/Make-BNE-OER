@@ -24,6 +24,7 @@ The Open Leadership Training Series is designed for those who want to work toget
 
 {% include videowrapper.html
   url="https://www.youtube.com/embed/9b5yvgKQdqE"
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/9b5yvgKQdqE' frameborder='0' allowfullscreen></iframe></div>
   title="Test - STEMM Role Models, Kirstie Whitaker" %}
 
 ### The Ingredients of an Open Project
