@@ -1,14 +1,12 @@
 ---
 layout: page
-title: "Überblick über die Kursinhalte"
+title: "Überblick und Einstieg"
 following: _articles/konzipiere-dein-bildungsmaterial.md
 ---
 
 ### Um was geht es im Online-Kurs *MakOER*?
 
-OER ist die Abkürzung für Open Educational Resources (= offene/ freie Bildungsmaterialien).
-
-Der zentrale Unterschied zwischen einem OER und einem traditionellen Bildungsmaterial ist die Art und Weise der Veröffentlichung:
+OER ist die Abkürzung für Open Educational Resources (= offene/ freie Bildungsmaterialien). Der zentrale Unterschied zwischen einem OER und einem traditionellen Bildungsmaterial ist die Art und Weise der Veröffentlichung:
 * ein OER ist unter einer freien Lizenz veröffentlicht. Hier haben sich die so genannten 
 * ein traditionelles Bildungsmaterial ist proprietär. 
 
@@ -24,14 +22,14 @@ Dazu haben wir 5 Lerneinheiten gestaltet, die Du am besten in chronologischer Re
 4. [Gestalte die benötigten neuen Inhalte]({{ site.baseurl }}/gestalte-die-benötigten-neuen-inhalte)
 5. [Veröffentliche und verbreite Dein OER]({{ site.baseurl }}/articles/verbreite-dein-oer)
 
-#### Before you start the training series, you must have:
+#### Vorkenntnisse und Voraussetzungen
 
-1. a project, or a vision or idea of something you want to create,
-2. an audience or community in mind; the group of people who will work together to build this project
-3. access to the world wide web
+Der Kurs ist so formuliert, dass er auch von digital weniger affinen Menschen erfolgreich genutzt werden kann. Du benötigst zum Lernen ein Gerät mit Zugang zum Internet. Du musst nichts installieren oder vorbereiten. Bei unseren Tool-Empfehlungen ist zum Teil eine Registrierung erforderlich. In diesem Fall weisen wir Dich im Kurs darauf hin.
 
-Having a project in mind or underway is key, because you’ll work through the assignments in each module using your own content, knowledge, and ideas, related to your project. **This is a one-size-fits-all resource-- it doesn’t matter if your project aims to teach kids to code in Cleveland or build mobile apps with taxi drivers in Bangladesh**. And it’s okay if your project is just getting up and running, or if you haven’t even started yet. This training is also useful if you have an open project that’s gotten derailed or is struggling to gain momentum or attract contributors. If you don’t have a community of contributors (those people eager to pitch in and help) or if you only have a handful of contributors, don’t worry! The “Building Communities of Contributors” section of this training is all about helping you find, connect with, and keep contributors on your project.
+#### Quellen und Weiternutzungsmöglichkeiten
 
-**Completion of the assignments in this series is very important!** The work in each assignment represents real, significant work on your project, from project planning to developing good workflows to convening events and communicating effectively with contributors. It’s important to do the modules in order, because the assignments build on each other-- for example, you’ll want to complete the module on open communications before you jump into a module about running an event, because the open communications module will help you set up the tools and infrastructure to get the word out about your event. We’ve provided a time estimate of how long it should take to complete each module, including assignments. **This training series is designed to grow along with your project-- from project set-up through maintenance**. While you might complete the reading/learning part of this training over the course of a few days, some of the assignments-- such as convening a community event-- may take much longer to complete.
+Das Kurslayout ist übernommen von der gemeinnützigen Mozilla Foundation, die mithilfe dieser Struktur ihren Open Leadership Kurs gestaltet. Veröffentlicht ist der Kurs via Github. Das ermöglicht es Dir erstens, den Kurs komplett zu kopieren und einen eigenen/ anderen/ veränderten Kurs daraus zu machen. Außerdem kannst Du überall Ergänzungen/ Verbesserungen/ Korrekturen vorschlagen. Wir freuen uns, wenn Du auf diese Weise dabei mithilfst, den Kurs besser zu machen.
 
-**Upon completion of this training series, you’ll have the basic knowledge and initial technical skills to lead your own open project, or to get an existing open project back on track by improving your open practice**.  If all this sounds good to you, and you’re ready with your project or project idea, let’s jump in and start with the first section, Intro to Open Leadership.
+#### Lizenz
+
+Die Kursinhalte sinmd gemeinfrei. Sie können ohne Lizenzhinweis weiter genutzt werden. Erstellt wurde der Kurs im November 2018 im eBildungslabor.
