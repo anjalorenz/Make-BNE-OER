@@ -4,7 +4,7 @@ title: "Bestehende Materialien nutzen"
 module: "2.2"
 date: 2016-10-06 14:05:56
 following: _articles/erfinde-das-rad-nicht-neu/rohmaterialien.md
-summary: "In dieser Einheit zeigen wir Dir, wie Du nach bestehenden OER recherchierst."
+summary: "In dieser Einheit geht es darum, aus proprietären Materialien in der eigenen Organisation OER zu machen."
 
 ---
 
