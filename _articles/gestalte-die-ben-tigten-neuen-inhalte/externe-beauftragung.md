@@ -3,7 +3,7 @@ layout: page
 title: "Externe Beauftragung"
 module: "4.4"
 date: 2016-10-06 14:05:56
-following: _articles/oer-verbreiten.md
+following: _articles/verbreite-dein-oer.md
 summary: "In dieser Einheit erfährst Du, was zu beachten ist, wenn Du OER-Erstellung extern in Auftrag gibst. "
 ---
 
