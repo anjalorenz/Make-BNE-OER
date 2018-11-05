@@ -3,16 +3,10 @@ layout: page
 title: "Leitfragen zur Reflexion"
 module: "1.1"
 date: 2016-10-06 14:05:56
-time: "20 Min"
 following: _articles/konzipiere-dein-bildungsmaterial/theoretische-modelle.md
 summary: "In dieser Einheit laden wir Dich zur Reflexion über Deinen geplanten Bildungsinhalt ein."
-prereq: "Du hast Dich in der Rubrik 'Überblick und Einstieg' grundsätzlich über OER informiert."
-format: "Texte lesen und Reflexionsfragen beantworten"
-materials: "None"
----
 
-* TOC
-{:toc}
+---
 
 
 ### Grundlegende Leitfragen
