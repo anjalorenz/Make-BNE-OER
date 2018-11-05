@@ -18,8 +18,8 @@ Dazu haben wir 5 Lerneinheiten gestaltet, die Du am besten in chronologischer Re
 
 1. [Konzipiere Dein Bildungsmaterial]({{ site.baseurl }}/articles/konzipiere-dein-bildungsmaterial)
 2. [Erfinde das Rad nicht neu]({{ site.baseurl }}/articles/erfinde-das-rad-nicht-neu)
-3. [Wähle eine für Dich passende Lizenz]({{ site.baseurl }}/articles/wähle-eine-für-dich-passende-lizenz)
-4. [Gestalte die benötigten neuen Inhalte]({{ site.baseurl }}/gestalte-die-benötigten-neuen-inhalte)
+3. [Wähle eine für Dich passende Lizenz]({{ site.baseurl }}/articles/w-hle-eine-f-r-dich-passende-lizenz)
+4. [Gestalte die benötigten neuen Inhalte]({{ site.baseurl }}/gestalte-die-ben-tigten-neuen-inhalte)
 5. [Veröffentliche und verbreite Dein OER]({{ site.baseurl }}/articles/verbreite-dein-oer)
 
 #### Vorkenntnisse und Voraussetzungen
