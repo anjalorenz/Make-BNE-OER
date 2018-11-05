@@ -16,4 +16,4 @@ Für entwicklungspolitisch-arbeitende Nichregierungsorganisationen kann hier das
 * Ein OER verbreitet sich erfahrungsgemäß sehr gut, wenn man zur Bekanntgabe auch Social Media nutzt (#OERde und/ oder FB Gruppe ‚OER im deutschsprachigen Raum)
 * Die jährlichen OERcamps sind ein ausgezeichneter Ort, um größere Projekte vorzustellen, weiterzudenken und sich mit anderen auszutauschen.
 
-#### Viel Spaß mit OER und Willkommen in der OER-Community!
+#### Viel Spaß mit OER und willkommen in der OER-Community!
