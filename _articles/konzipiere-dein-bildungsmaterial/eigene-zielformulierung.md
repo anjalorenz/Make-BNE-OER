@@ -3,7 +3,7 @@ layout: page
 title: "Eigene Zielformulierung"
 module: "1.4"
 date: 2016-10-06 14:05:56
-following: _articles/introduction-to-open-leadership/stating-your-project-vision.md
+following: _articles/erfinde-das-rad-nicht-neu.md
 summary: "Du formulierst Dein Ziel für das geplante Bildungsmaterial."
 
 ---
@@ -26,3 +26,5 @@ Wichtig:
 * mit allen Elementen
 
 Gebe Deine Zielformulierung an Außenstehende zur Lektüre, um Verständlichkeit zu überprüfen.
+
+Nach diesen Schritten zur Konzeption, kannst Du nun die zweite Einheit bearbeiten.
