@@ -18,7 +18,7 @@ Deine Zielformulierung für das geplante Bildungsmaterial sollte möglichst konk
 
 Wie Du siehst, fasst Du mit der Zielformulierung in dieser Art und Weise Deine Reflexionen zu den Leitfragen am Anfang dieser Einheit komprimiert zusammen.
 
-### {{ site.assignment }} Verschrftliche Deine Zielformulierung
+### {{ site.assignment }} Verschriftliche Deine Zielformulierung
 
 Nutze das obige Beispiel, um Deine eigene Zielformulierung zu verschriftlichen.
 
