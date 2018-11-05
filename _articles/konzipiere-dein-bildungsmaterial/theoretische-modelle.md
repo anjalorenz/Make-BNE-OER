@@ -6,11 +6,11 @@ date: 2016-10-06 14:05:56
 time: "15 min"
 following: _articles/konzipiere-dein-bildungsmaterial/inspiration.md
 summary: "In dieser Lektion erfährst Du etwas zum theoretischen Hintergrund von zeitgemäßen Bildungsmaterialien."
-materials: None
-format: Texte lesen und Videos ansehen
-prereq: "Have read the [Series README file](/open-leadership-training-series/articles/readme)"
+materials: Keine
+format: Texte lesen und Video ansehen
+prereq: "Du hast die bisherigen Lektionen durchgearbeitet."
 ---
-* TOC
+* Übersicht
 {:toc}
 
 Um ein gutes OER zu gestalten, müssen wir darauf achten, dass das Potential von OER für eine offene Bildungspraxis zur Umsetzung gebracht werden kann. Wir gehen dazu davon aus, dass Du Dein OER als ein digitales Bildungsmaterial veröffentlichen möchtest. Als Hintergrundwissen sind dazu zwei theoretische Modelle hilfreich.  
