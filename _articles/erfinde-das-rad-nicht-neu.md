@@ -11,4 +11,4 @@ contents:
 following: _articles/erfinde-das-rad-nicht-neu/oer-suchmaschine.md
 ---
 
-In dieser Einheit recherchieren wir gemeinsam nach bereits bestehenden Materialien, damit das Rad durch Dich nicht neu erfunden werden musst. Ein OER zu erstellen kann in vielen Fällen auch bedeuten, aufbauend auf bereits vorhandenen Materialien ein neues Material zu remixen.
+In dieser Einheit recherchieren wir gemeinsam nach bereits bestehenden Materialien. Denn ein OER zu erstellen, kann in vielen Fällen auch bedeuten, aufbauend auf bereits vorhandenen Materialien ein neues Material zu remixen.
