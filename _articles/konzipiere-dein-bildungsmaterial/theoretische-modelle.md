@@ -3,12 +3,9 @@ layout: page
 title: "Theoretische Modelle für zeitgemäße Bildungsmaterialien"
 module: "1.2"
 date: 2016-10-06 14:05:56
-time: "15 min"
 following: _articles/konzipiere-dein-bildungsmaterial/inspiration.md
 summary: "In dieser Lektion erfährst Du etwas zum theoretischen Hintergrund von zeitgemäßen Bildungsmaterialien."
-materials: Keine
-format: Texte lesen und Video ansehen
-prereq: "Du hast die bisherigen Lektionen durchgearbeitet."
+
 ---
 
 
