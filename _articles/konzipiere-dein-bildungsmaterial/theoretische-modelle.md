@@ -10,8 +10,7 @@ materials: Keine
 format: Texte lesen und Video ansehen
 prereq: "Du hast die bisherigen Lektionen durchgearbeitet."
 ---
-* Übersicht
-{:toc}
+
 
 Um ein gutes OER zu gestalten, müssen wir darauf achten, dass das Potential von OER für eine offene Bildungspraxis zur Umsetzung gebracht werden kann. Wir gehen dazu davon aus, dass Du Dein OER als ein digitales Bildungsmaterial veröffentlichen möchtest. Als Hintergrundwissen sind dazu zwei theoretische Modelle hilfreich.  
 
