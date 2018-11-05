@@ -13,9 +13,6 @@ materials: "Keine"
 
 ---
 
-* TOC
-{:toc}
-
 
 ### Inspirationsquelle 1: Bildung in einer digitalen Welt
 
