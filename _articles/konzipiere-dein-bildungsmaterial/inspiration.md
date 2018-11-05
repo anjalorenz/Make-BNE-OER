@@ -3,13 +3,8 @@ layout: page
 title: "Inspiration zu zeitgemäßen Bildungsmaterialien"
 module: "1.3"
 date: 2016-10-06 14:05:56
-time: "15 mins"
 following: _articles/konzipiere-dein-bildungsmaterial/eigene-zielformulierung.md
 summary: "Lasse Dich von gelungenen (OER)-Unterrichtsbeispielen und -Materialien inspirieren."
-prereq: "Du hast die vorherigen Einheiten durchgearbeitet."
-format: >
-  *   Inspirationsquellen kennen lernen und explorieren.
-materials: "Keine"
 
 ---
 
