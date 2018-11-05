@@ -3,7 +3,7 @@ layout: page
 title: "Wähle eine für Dich passende Lizenz"
 module: "3.1"
 date: 2016-10-06 14:05:56
-following: _articles/wähle-eine-für-dich-passende-lizenz/der-cc-licence-chooser.md
+following: _articles/w-hle-eine-f-r-dich-passende-lizenz/der-cc-licence-chooser.md
 summary: "In dieser Einheit lernst Du verschiedene CC Lizenzen und unsere Empfehlung kennen."
 
 ---
