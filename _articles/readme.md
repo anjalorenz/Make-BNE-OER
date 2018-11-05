@@ -32,4 +32,4 @@ Das Kurslayout ist übernommen von der gemeinnützigen Mozilla Foundation, die m
 
 #### Lizenz
 
-Die Kursinhalte sinmd gemeinfrei. Sie können ohne Lizenzhinweis weiter genutzt werden. Erstellt wurde der Kurs im November 2018 im [eBildungslabor](https://www.ebidungslabor.de).
+Die Kursinhalte sinmd gemeinfrei. Sie können ohne Lizenzhinweis weiter genutzt werden. Erstellt wurde der Kurs im November 2018 im [eBildungslabor](https://www.ebidungslabor.de) aus Anlass der Veranstaltung des Portals Globales Lernen 'Schritt für Schritt zum eigenen OER'.
