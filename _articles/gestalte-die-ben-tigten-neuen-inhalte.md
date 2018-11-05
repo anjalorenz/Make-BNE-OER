@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Gestalte die benötigten neuen Inhalte"
+module: 3
+date: 2016-10-06 14:05:56
+contents:
+  - _articles/gestalte-die-ben-tigten-neuen-inhalte/die-herausforderung.md
+  - _articles/gestalte-die-ben-tigten-neuen-inhalte/h5p.md
+  - _articles/gestalte-die-ben-tigten-neuen-inhalte/weitere-tools.md
+  - _articles/gestalte-die-ben-tigten-neuen-inhalte/externe-beauftragung.md
+following: _articles/gestalte-die-ben-tigten-neuen-inhalte/die-herausforderung.md
+---
+
+In dieser Einheit lernen wir verschiedene Tools kennen, mit denen wir OER so erstellen können, dass sie möglichst gut weiter genutzt werden können.
