@@ -3,7 +3,7 @@ layout: page
 title: "Rohmaterialien nutzen"
 module: "2.3"
 date: 2016-10-06 14:05:56
-following: _articles/wähle-eine-für-dich-passende-lizenz.md
+following: _articles/w-hle-eine-f-r-dich-passende-lizenz.md
 summary: "In dieser Lektion suchen wir gemeinsam nach Rohmaterialien z.B. in Form von Bildern und zeigen Dir, wie Du sie nutzen kannst.."
 
 ---
