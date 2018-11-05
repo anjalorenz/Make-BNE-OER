@@ -3,23 +3,10 @@ layout: page
 title: "Eigene Zielformulierung"
 module: "1.4"
 date: 2016-10-06 14:05:56
-time: "25 mins"
 following: _articles/introduction-to-open-leadership/stating-your-project-vision.md
 summary: "Du formulierst Dein Ziel für das geplante Bildungsmaterial."
-prereq: >
-  * Du hast die vorhergehenden Lektionen durchgearbeitet.
 
-  * Du hast eine Idee für ein Bildungsnmaterial
-format: >
-  * Read and watch videos on this topic
-
-  * Do a short thinking/writing reflection exercise
-materials: "Möglichkeit zur Verschriftlichung Deines Statements (analog oder digital)"
 ---
-
-* TOC
-{:toc}
-
 
 ### Deine Zielformulierung
 
