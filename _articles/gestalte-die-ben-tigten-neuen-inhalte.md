@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gestalte die benötigten neuen Inhalte"
-module: 3
+module: 4
 date: 2016-10-06 14:05:56
 contents:
   - _articles/gestalte-die-ben-tigten-neuen-inhalte/die-herausforderung.md
