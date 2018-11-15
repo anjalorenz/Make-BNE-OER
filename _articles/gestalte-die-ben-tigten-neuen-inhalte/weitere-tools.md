@@ -29,4 +29,4 @@ OER lassen sich ansonsten natürlich auch 'einfach so' erstellen, ohne ein besti
 * Wir laden zum Mitmachen bei einem Projekt ein.
 * Wir starten einen Blog, ein Wiki oder einen Podcast
 
-Bei all diesen Varianten sollte man aus einer OER-Perspektive lediglich darauf achte, dass Lernende und Lehrende die Inhalte technisch möglichst gut weiter nutzen können. (Und natürlich eine offene Lizenz dazu schreiben. Sonst wäre es ja kein OER)
+Bei all diesen Varianten sollte man darauf achten, dass Lernende und Lehrende die Inhalte technisch möglichst gut weiter nutzen können. (Und natürlich eine offene Lizenz dazu schreiben. Sonst wäre es ja kein OER)
