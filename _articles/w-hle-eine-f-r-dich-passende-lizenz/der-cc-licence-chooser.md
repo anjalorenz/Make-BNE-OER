@@ -15,7 +15,7 @@ Rechtlich ist das nicht unbedingt erforderlich. Statt dessen könntest Du auch e
 
 ### Potential Namennennung
 
-Die Möglichkeit der Namensnennung in der CC BY Lizenz hat gerade für zivilgesellschaftliche Organisationen ein großes Potential. Denn diese Namensnennun muss gar ncht den Namen der urhebenden Person beinhalten. Statt dessen kann man z.B. auch den Namen der Organisation angeben. 
+Die Möglichkeit der Namensnennung in der CC BY Lizenz hat gerade für zivilgesellschaftliche Organisationen ein großes Potential. Denn diese Namensnennung muss gar ncht den Namen der urhebenden Person beinhalten. Statt dessen kann man z.B. auch den Namen der Organisation angeben. 
 Wenn das Material dann weiter genutzt wird, wird automatisch auch der Name der Organisation verbreitet (und auf diese Weise ihre Bekanntheit und Durchsetzungsfähigkeit gesteigert)
 
 ### {{ site.assignment }} Probiere den Licence Chooser aus
