@@ -8,25 +8,15 @@ summary: "Du formulierst Dein Ziel für das geplante Bildungsmaterial."
 
 ---
 
-Für viele ist bei digitalen Bildungsmaterialien, die dann auch noch OER sein sollen, erst einmal vieles neu. Am besten startet man mit ersten, kleinen Schritten. Um sich über diese Klarheit zu verschaffen, bietet es sich an, sie in Form eines Leitbildes zu verschriftlichen.
+Für viele ist bei digitalen Bildungsmaterialien, die dann auch noch OER sein sollen, erst einmal vieles neu. Am besten  ihr tut  euch mit anderen zusammen und lasst euch von euren Lehrkräften oder der Gruppenleitung beraten. Auch für sie wird manches neu und dieser Kurs vielleicht eine Hilfe sein.
 
-### Deine Zielformulierung
+### Das Ziel formulieren und die Arbeitsformen klären
 
-Deine Zielformulierung für das geplante Bildungsmaterial sollte möglichst konkret sein. Hier ist ein Beispiel:
+Deine (eure gemeinsame) Zielformulierung für das geplante Bildungsmaterial sollte sich am besten an dem orientieren, was ihr gerade im Unterricht vorhabt oder an dem Problem, mit dem ihr euch auseinandersetzet und zu dessen Lösung ihr einen Beitrag leisten möchtet.
 
-> Ich möchte ein Bildungsmaterial zum Thema Feinstaubmessungen erstellen, mit dem Lehrende an der Sekundarstufe I lernen können, wie sie mit ihrer Klasse einen eigenen Feinstaubsensor bauen und ihre Messdaten offen publizieren können. Für meine Organisation erhoffe ich mir dadurch eine größere Bekanntheit.
+Das sollte in einem schriftlichen Konzeptentwurf gemacht werden, zum Beispiel:
+Ich möchte/wir möchten ein Bildungsmaterial zum Thema „Verpackungsmüll“ erstellen, mit dem in der Sekundarstufe I das Bewusstsein für dieses Problem erhöht wird und gelernt werden kann, wo die Ursachen liegen, was konkret zu seiner Lösung beigetragen werden kann: durch Verhaltensänderungen, die Entwicklung von recyclebaren Materialien, politische Entscheidungen.  Am besten sollten wir in unserem OER Bildungsmaterial Lösungsmöglichkeiten selber ausprobieren können und herausfinden, welche Handelsunternehmen sowie Start ups in unserer Umgebung bereits daran arbeiten und welche Organisationen sich wie dafür einsetzen. Ideal wäre es, wenn das in dem OER-Material für unsere Stadt, Kommune, Region mit einer interaktiven Karte dargestellt werden  könnte.
 
-Wie Du siehst, fasst Du mit der Zielformulierung in dieser Art und Weise Deine Reflexionen zu den Leitfragen am Anfang dieser Einheit komprimiert zusammen.
+Dazu ein paar denkbare Kommentare aus eurer Klasse/Gruppe: „Das ist eine ganze Menge und eher eine Ideensammlung, zu der im Laufe der Zeit sicher noch einiges hinzukommt, z. B. Bild- und Videomaterial, so dass wir einen Zeitplan brauchen. Interviews wären auch nicht schlecht. Wie wollen wir eigentlich zusammenarbeiten, in Kleingruppen und arbeitsteilig? Um welche Kompetenzen geht es dabei ...? Gibt es einen Zusammenhang mit einem der 17 Nachhaltigen Entwicklungsziele? Ein guter Titel muss her...“
 
-### {{ site.assignment }} Verschriftliche Deine Zielformulierung
-
-Nutze das obige Beispiel, um Deine eigene Zielformulierung zu verschriftlichen.
-
-Wichtig:
-* möglichst konkret.
-* möglichst einfach.
-* mit allen Elementen
-
-Gebe Deine Zielformulierung an Außenstehende zur Lektüre, um Verständlichkeit zu überprüfen. Und denke daran: Im ersten Schritt muss es noch gar nicht ein großes und umfassendes Bildungsprojekt sein. Ein erster Schritt kann z.B. auch ein interaktives Spiel sein, das Lehrkräfte mit den 17 Nachhaltigkeitszielen vertraut macht oder eine Zusammenstellung von Online-Quellen mit empfehlenswerten und offen weiternutzbaren Bildern zur Nutzung im Lernbereich Globale Entwicklung.
-
-Nach diesen Schritten zur Konzeption, kannst Du praktisch mit der Erstellung Deines OER beginnen. Dazu recherchieren wir in einem ersten Schritt nach bereits bestehenden Materialien, damit wir das Rad nicht neu erfinden.
+Sprecht mit anderen über eure Planungen und bedenkt, dass es im ersten Schritt nicht gleich ein großes Bildungsprojekt entstehen muss. Ein erster Schritt kann z.B. auch ein interaktives Spiel sein. 
