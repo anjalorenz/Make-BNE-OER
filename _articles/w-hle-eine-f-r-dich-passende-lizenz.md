@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wähle eine für Dich passende Lizenz"
+title: "Wähle eine passende Lizenz"
 module: 3
 date: 2016-10-06 14:05:56
 contents:
@@ -9,4 +9,4 @@ contents:
 following: _articles/w-hle-eine-f-r-dich-passende-lizenz/die-creative-commons-lizenzen.md
 ---
 
-Nachdem wir in den vorherigen Einheiten über die Konzeption unseres geplanten OER nachgedacht und uns auf die Suche nach möglichen zu verwendenden (Roh)-Materialien gemacht haben, müssen wir nun noch entscheiden, unter welcher Lizenz wir unser geplantes OER später veröffentlichen wollen.
+Nachdem wir in den vorherigen Einheiten über die Konzeption unseres geplanten OER-Materials nachgedacht und uns auf die Suche nach möglichen zu verwendenden (Roh)-Materialien gemacht haben, müssen wir nun noch entscheiden, unter welcher Lizenz wir unser geplantes OER veröffentlichen wollen.
