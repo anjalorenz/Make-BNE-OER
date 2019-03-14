@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Konzipiere Dein Bildungsmaterial"
+title: "Konzipiere dein Bildungsmaterial"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
