@@ -11,4 +11,4 @@ contents:
 following: _articles/gestalte-die-ben-tigten-neuen-inhalte/die-herausforderung.md
 ---
 
-In dieser Einheit lernen wir verschiedene Tools kennen, mit denen wir OER so erstellen können, dass sie möglichst gut weiter genutzt werden können.
+In dieser Einheit lernt ihr verschiedene Tools kennen, mit denen OER so erstellt werden können, dass sie möglichst gut weiter zu nutzen sind.
