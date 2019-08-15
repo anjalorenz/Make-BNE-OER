@@ -4,7 +4,7 @@ title: "H5P"
 module: "4.2"
 date: 2016-10-06 14:05:56
 following: _articles/gestalte-die-ben-tigten-neuen-inhalte/weitere-tools.md
-summary: "In dieser Einheit empfehlen wir Dir die Open Source Software H5P"
+summary: "In dieser Einheit empfehlen wir euch die Open Source Software H5P"
 
 ---
 
@@ -22,10 +22,10 @@ Zum Weiterbearbeiten von Inhalten werden diese im Format .h5p heruntergeladen, n
 
 Mit H5P wird die Erstellung von interaktiven Online-Inhalten so simpel wie bloggen. Zudem können einmal erstellte Inhalte beliebig geteilt, verbreitet und weiter entwickelt werden. Da H5P Open Source ist, wird für die Nutzung keine Gebühr verlangt. In der Konsequenz bedeutet das: mehr Bildung, bessere Bildung, vielfältigere Bildung – von und für alle!
 
-Aus der Perspektive des Lernbereichs Globale Entwicklung spricht zudem für H5P, dass das Portal Globales Lernen OER-Materialien in Form von H5P zur Verfügung stellen möchte und dabei ist, die technischen Voraussetzungen dazu zu schaffen.
+Aus der Perspektive der Bildung für Nachhaltige Entwicklung spricht zudem für H5P, dass das Portal Globales Lernen OER-Materialien in Form von H5P zur Verfügung stellen möchte und dabei ist, die technischen Voraussetzungen dazu zu schaffen.
 
 ### {{ site.assignment }} Deine ersten Schritte mit H5P
 
-Um H5P auszuprobieren, legst Du Dir am besten einen Account auf der [H5P Website](https://www.h5p.org) an. Dann kannst Du direkt mit dem Erstellen unterschiedlicher H5P Inhaltstypen beginnen.
+Um H5P auszuprobieren, legst du dir am besten einen Account auf der [H5P Website](https://www.h5p.org) an. Dann kannst du direkt mit dem Erstellen unterschiedlicher H5P Inhaltstypen beginnen.
 
-Um H5P zunächst genauer kennen zu lernen, findest Du auf oncampus einen kostenfreien MOOC (d.h. offenen Online-Kurs) zu H5P: [Einstieg H5P](https://www.oncampus.de/course/weiterbildung/moocs/einstieg-in-h5p)
+Um H5P zunächst genauer kennen zu lernen, findest du auf oncampus einen kostenfreien MOOC (d. h. offenen Online-Kurs) zu H5P: [Einstieg H5P](https://www.oncampus.de/course/weiterbildung/moocs/einstieg-in-h5p)
