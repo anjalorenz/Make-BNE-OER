@@ -13,7 +13,7 @@ summary: "Lasst euch von gelungenen (OER)-Unterrichtsbeispielen und -Materialien
 
 Das OER-Projekt Edulabs hat eine Sammlung von gelungenen OER-Unterrichtsbeispielen gestartet, die sich auf die KMK-Strategie 'Bildung in einer digitalen Welt' beziehen.
 
-[Hier kommst du zur Datenbank](https://edulabs.de/oer/)
+[Hier kommst du zur Datenbank](https://edulabs.de/oer/).
 
 ### Inspirationsquelle 2: 'Eine Welt für alle' - Schulwettbewerb
 
@@ -23,6 +23,6 @@ Im Schulwettbewerb 'Eine Welt für alle' werden alle 2 Jahre gelungene Schulproj
 
 ### Inspirationsquelle 2: Portal Globales Lernen
 
-Auf dieser zentralen Plattform für BNE und Globales Lernen gibt es eine umfangreiche Datenbank für Unterrichtsmaterialien, die inhaltliche und methodische Anregungen für die Entwicklung von BNE-OER geben. Dass gilt auch für die die Rubrik „Fokusthemen“ auf der Startseite des Portals.
+Auf dieser zentralen Plattform für BNE und Globales Lernen gibt es eine umfangreiche Datenbank für Unterrichtsmaterialien, die inhaltliche und methodische Anregungen für die Entwicklung von BNE-OER geben. Das gilt auch für die die Rubrik „Fokusthemen“ auf der Startseite des Portals.
 
 [Hier kommst du zum Portal](https://www.globaleslernen.de/de)
