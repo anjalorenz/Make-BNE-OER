@@ -17,6 +17,6 @@ Rechtlich ist das nicht unbedingt erforderlich. Stattdessen könntest du auch ei
 
 Die Möglichkeit der Namensnennung in der CC BY Lizenz hat für Schulen und andere Einrichtungen sowie zivilgesellschaftliche Organisationen öffentlichkeitswirksame Vorteile. Statt des Namens der urhebenden Person kann auch der Namen der Institution bzw. Organisation angeben werden. Wenn das Material weiter genutzt wird, wird dann automatisch auch dieser Name verbreitet.
 
-### {{ site.assignment }} Probiert den Licence Chooser aus
+### {{ site.assignment }} Probiere den Licence Chooser aus
 
 Erstelle deshalb (als Test oder schon für den realen Einsatz) eine Lizenz für ein geplantes oder bereits erstelltes OER-Material.
