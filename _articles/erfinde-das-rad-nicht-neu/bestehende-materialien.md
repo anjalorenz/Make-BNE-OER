@@ -23,7 +23,7 @@ Hier haben wir in einem kurzen Screencast-Tutorial aufgezeichnet, wie diese Goog
 
 [![Google Bilder Rückwärtssuche](https://img.youtube.com/vi/Wa053baIAzI/0.jpg)](https://www.youtube.com/watch?v=Wa053baIAzI)
 
-Noch einfacher (aber mit einer kleineren Datenbank) funktioniert das Tool [TinEye](https://tineye.com/). Hier erhaltet ihr eine deutlich bessere Übersicht über die Bildverwendung. Insbesondere wird angezeigt, wenn es sich bei dem Bild um ein Stock-Foto handelt. Bei der Nutzung von Stockplattformen ist zu beachten, dass auch im Falle von lizenzfreien Bildern stets die Regelungen im Lizenzvertrag beachtet werden müssen. Du kannst Dir TinEye als AddOn in deinem Browser installieren und mit einem rechten Mausklick eine Suche starten.
+Noch einfacher (aber mit einer kleineren Datenbank) funktioniert das Tool [TinEye](https://tineye.com/). Hier erhältst du eine deutlich bessere Übersicht über die Bildverwendung. Insbesondere wird angezeigt, wenn es sich bei dem Bild um ein Stock-Foto handelt. Bei der Nutzung von Stockplattformen ist zu beachten, dass auch im Falle von lizenzfreien Bildern stets die Regelungen im Lizenzvertrag beachtet werden müssen. Du kannst dir TinEye als AddOn in deinem Browser installieren und mit einem rechten Mausklick eine Suche starten.
 
 #### PDF bearbeitbar machen
 
@@ -31,13 +31,13 @@ Viele frei verwendbare Materialien liegen uns als PDF vor. Eine Bearbeitung ist 
 
 #### Metadaten von Bildern zeigen
 
-Die meisten Bilder werden heutzutage automatisiert mit Metadaten abgespeichert. Diese geben z. B. Auskunft über den Urheber, über die Plattform, auf der das Bild bearbeitet wurde, über das Datum der Aufnahme und vieles mehr. Mit [Jeffreys Image Metadata Viewer](http://exif.regex.info/exif.cgi) könnt ihr diese Metadaten sichtbar machen.
+Die meisten Bilder werden heutzutage automatisiert mit Metadaten abgespeichert. Diese geben z. B. Auskunft über den Urheber, über die Plattform, auf der das Bild bearbeitet wurde, über das Datum der Aufnahme und vieles mehr. Mit [Jeffreys Image Metadata Viewer](http://exif.regex.info/exif.cgi) kannst du diese Metadaten sichtbar machen.
 
 ### Praxistipps
 
 Aus der Praxis lassen sich in Bezug auf die Umwandlung von Materialien unbekannter Herkunft die folgenden Tipps zusammenfassen:
 
 * Neu erstellen ist oft einfacher als aus unbekannten Quellen OER zu machen. Das soll nicht davon abhalten, auch bestehende Materialien in OER umzuwandeln. Bei sehr komplexen Materialien mit unbekannten und vielfältigen Herkunftsquellen muss man allerdings aufpassen, dass der Aufwand den Nutzen nicht deutlich übersteigt. Manchmal kann es auch eine gute Möglichkeit sein, nur einzelne Teile in OER zu verwandeln.
-* Sauberes Arbeiten hilft für die Zukunft. Schreibe deshalb immer dazu, woher Du Bilder nimmst, auch wenn sie gemeinfrei sind. Das erspart Dir (oder anderen) für die Zukunft eine Menge Arbeit.
+* Sauberes Arbeiten hilft für die Zukunft. Schreibe deshalb immer dazu, woher du Bilder nimmst, auch wenn sie gemeinfrei sind. Das erspart dir (oder anderen) für die Zukunft eine Menge Arbeit.
 * In Zweifelsfällen gilt: Medien weglassen oder durch eigene Bilder ersetzen. Bei Texten lassen sich Urheber in der Regel einfacher feststellen.
 
