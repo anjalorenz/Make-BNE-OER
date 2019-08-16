@@ -11,7 +11,7 @@ summary: "In dieser Einheit zeigen wir, wie nach bestehenden OER recherchiert we
 
 ### Das OERhörnchen: die Suchmaschine für freie Bildungsmaterialien
 
-Das geplante OER-Material kann unter Einbeziehung von bereits vorhandenen OER gestaltet werden. Dafür musst du wissen, welche OER es zu dem geplanten Vorhaben/Themengebiet bereits gibt. Darüber kann die OER-Suchmaschine [OERhörnchen] (https://oerhoernchen.de/suche) Auskunft geben. Sie durchsucht die zentralen OER-Projekte und Repositorien (Orte zur Speicherung) im deutschsprachigen Raum nach einem eingegeben Suchbegriff.
+Das geplante OER-Material kann unter Einbeziehung von bereits vorhandenen OER gestaltet werden. Dafür musst du wissen, welche OER es zu dem geplanten Vorhaben/Themengebiet bereits gibt. Darüber kann die OER-Suchmaschine [OERhörnchen](https://oerhoernchen.de/suche) Auskunft geben. Sie durchsucht die zentralen OER-Projekte und Repositorien (Orte zur Speicherung) im deutschsprachigen Raum nach einem eingegeben Suchbegriff.
 
 ### {{ site.assignment }} Führe auf OERhörnchen eine Suche durch
 
