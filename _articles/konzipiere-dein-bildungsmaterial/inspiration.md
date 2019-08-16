@@ -25,4 +25,4 @@ Im Schulwettbewerb 'Eine Welt für alle' werden alle 2 Jahre gelungene Schulproj
 
 Auf dieser zentralen Plattform für BNE und Globales Lernen gibt es eine umfangreiche Datenbank für Unterrichtsmaterialien, die inhaltliche und methodische Anregungen für die Entwicklung von BNE-OER geben. Das gilt auch für die die Rubrik „Fokusthemen“ auf der Startseite des Portals.
 
-[Hier kommst du zum Portal](https://www.globaleslernen.de/de)
+[Hier kommst du zum Portal](https://www.globaleslernen.de/de).
