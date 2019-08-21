@@ -38,4 +38,4 @@ redcarpet:
 video: "<span class=\"video-player\"></span>"
 assignment: "<span class=\"assignment\">Assignment: </span>"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
