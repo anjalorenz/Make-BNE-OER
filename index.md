@@ -6,7 +6,7 @@ Dieser Mini-Online-Kurs Make OER führt dich Schritt für Schritt zu deinem eige
 
 Der Kurs ist konzipiert für Bildungsakteurinnen und -akteure, aber kann selbstverständlich auch von allen anderen Interessierten genutzt werden.
 
-## Danke Nele!
+### Danke Nele!
 
 Dieser Minikurs wurde ursprünglich von [Nele Hirsch](https://twitter.com/ebildungslabor) vom [eBildungslabor](https://ebildungslabor.de/) bereitgestellt. Sie hat ihn unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) veröffentlicht, weshalb ich sie hier nicht einmal erwähnen müsste.
 
