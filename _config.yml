@@ -35,6 +35,6 @@ redcarpet:
 
 # variables
 video: "<span class=\"video-player\"></span>"
-assignment: "<span class=\"assignment\">Assignment: </span>"
+assignment: "<span class=\"assignment\">Aufgabe: </span>"
 
 theme: jekyll-theme-slate
