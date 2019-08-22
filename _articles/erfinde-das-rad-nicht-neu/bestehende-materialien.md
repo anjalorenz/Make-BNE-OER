@@ -11,7 +11,7 @@ summary: "In dieser Einheit geht es darum, aus proprietären Materialien OER zu 
 
 ### Aus proprietär mach OER
 
-In vielen Fällen wird die Suche nach guten BNE-OER zu einem Thema noch ergebnislos sein. Das liegt daran, dass die Erstellung von OER ein Aktionsfeld ist, das im deutschsprachigen Raum für BNE gerade erst erschlossen wird. Wir stehen allerdings oft vor der Situation, dass es in der eigenen Organisation (oder im Eigentum einzelner Autorinnen und Autoren) bereits gute Materialien zu dem gewünschten Thema gibt. Die Frage ist dann nicht: Wo finde ich bestehende OER, die ich nutzen kann? Sondern: Wie kann ich proprietäre Materialien in OER umwandeln?
+In vielen Fällen wird die Suche nach guten OER zu einem Thema noch ergebnislos sein. Das liegt daran, dass die Erstellung von OER ein Aktionsfeld ist, das im deutschsprachigen Raum für viele Themengebiete gerade erst erschlossen wird. Wir stehen allerdings oft vor der Situation, dass es in der eigenen Organisation (oder im Eigentum einzelner Autorinnen und Autoren) bereits gute Materialien zu dem gewünschten Thema gibt. Die Frage ist dann nicht: Wo finde ich bestehende OER, die ich nutzen kann? Sondern: Wie kann ich proprietäre Materialien in OER umwandeln?
 
 Wenn es sich um einen selbst erstellten Text handelt, ist das nicht weiter kompliziert, sofern man ihn nicht bei einem Verlag mit bestimmten Auflagen veröffentlicht hat. Schwierig wird es dann, wenn man mit Materialien konfrontiert ist, deren Herkunft einem nicht bekannt ist und die z. B. auch Bilder oder andere Medien beinhalten, die man gut gebrauchen könnte. In diesem Fall können drei Tools helfen:
 
