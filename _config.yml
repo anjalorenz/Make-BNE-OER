@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   training is for anyone running an open project at MozFest. This can be
   software, curriculum, or anything you can build together with a group.
 baseurl: "/Make-OER" # the subpath of your site, e.g. /blog
-url: "https://contenthackathon.github.io" # the base hostname & protocol for your site
+url: "https://anjalorenz.github.io" # the base hostname & protocol for your site
 github:
   repo: "anjalorenz/Make-OER"
   branch: "gh-pages"
