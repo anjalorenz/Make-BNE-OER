@@ -27,7 +27,7 @@ Noch einfacher (aber mit einer kleineren Datenbank) funktioniert das Tool [TinEy
 
 #### PDF bearbeitbar machen
 
-Viele frei verwendbare Materialien liegen uns als PDF vor. Eine Bearbeitung ist dann schwierig. Abhilfe schafft das Online Tool [SmallPDF](smallpdf.com/de). Damit kannst du PDFs aufsplitten, bestimmte Elemente ergänzen, den Text exportieren etc.
+Viele frei verwendbare Materialien liegen uns als PDF vor. Eine Bearbeitung ist dann schwierig. Abhilfe schafft das Online Tool [SmallPDF](https://smallpdf.com/de). Damit kannst du PDFs aufsplitten, bestimmte Elemente ergänzen, den Text exportieren etc.
 
 #### Metadaten von Bildern zeigen
 
