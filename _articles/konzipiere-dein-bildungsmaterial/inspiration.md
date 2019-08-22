@@ -4,7 +4,7 @@ title: "Inspiration zu zeitgemäßen Bildungsmaterialien"
 module: "1.3"
 date: 2016-10-06 14:05:56
 following: _articles/konzipiere-dein-bildungsmaterial/eigene-zielformulierung.md
-summary: "Lasst euch von gelungenen (OER)-Unterrichtsbeispielen und -Materialien inspirieren."
+summary: "Lass dich von gelungenen (OER)-Unterrichtsbeispielen und -Materialien inspirieren."
 
 ---
 
@@ -23,6 +23,6 @@ Im Schulwettbewerb 'Eine Welt für alle' werden alle 2 Jahre gelungene Schulproj
 
 ### Inspirationsquelle 3: Portal Globales Lernen
 
-Auf dieser zentralen Plattform für BNE und Globales Lernen gibt es eine umfangreiche Datenbank für Unterrichtsmaterialien, die inhaltliche und methodische Anregungen für die Entwicklung von BNE-OER geben. Das gilt auch für die die Rubrik „Fokusthemen“ auf der Startseite des Portals.
+Auf dieser zentralen Plattform für Bildung für nachhaltige Entwicklung (BNE) und Globales Lernen gibt es eine umfangreiche Datenbank für Unterrichtsmaterialien, die inhaltliche und methodische Anregungen für die Entwicklung von BNE-OER geben. Das gilt auch für die die Rubrik „Fokusthemen“ auf der Startseite des Portals.
 
 [Hier kommst du zum Portal](https://www.globaleslernen.de/de).
