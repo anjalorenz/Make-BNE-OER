@@ -26,6 +26,4 @@ Bei Materialien aus der Wikipedia oder von Wikimedia Commons wird dir das Schrei
 
 Bei anderen Quellen musst du diesen Lizenzhinweis selbst formulieren. Als Eselsbrücke kannst du dir die TULLU-Regel merken. TULLU steht dabei für die Elemente, die ein Lizenzhinweis unbedingt beinhalten muss: Titel, Urheber, Lizenz, Link zur Lizenz und Ursprungsort.
 
-Schritt für Schritt wirst du durch die Formulierung eines Lizenzhinweises auf der Seite [Lehrerfragen](https://lehrerfragen.de) geführt.
-
 Den Lizenzhinweis integrierst du in dein in Bearbeitung befindliches OER – entweder direkt an der Stelle, wo das entsprechende Rohmaterial auftaucht, oder gebündelt als Übersicht. In jedem Fall muss der Lizenzhinweis gut erkennbar sein.
