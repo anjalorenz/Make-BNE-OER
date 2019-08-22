@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/Make-BNE-OER" # the subpath of your site, e.g. /blog
 url: "https://contenthackathon.github.io" # the base hostname & protocol for your site
 github:
-  repo: "anjalorenz/Make-BNE-OER"
+  repo: "anjalorenz/Make-OER"
   branch: "gh-pages"
 
 
