@@ -8,7 +8,7 @@ following: _articles/konzipiere-dein-bildungsmaterial/theoretische-modelle.md
 ---
 
 
-*Was soll mit dem Material gelernt werden?* 
+## *Was soll mit dem Material gelernt werden?*
 
 Die Frage nach den Inhalten und dem Thema drängt sich (sofern nicht bereits vorgegeben) in der Regel in den Vordergrund, da Bildung zunehmend mit einer Unzahl medial transportierter Herausforderungen konfrontiert wird. Das legt nahe, die Themenauswahl an grundlegenden Lernzielen oder gesellschaftlichen Entwicklungszielen (wie den 17 Nachhaltigkeitszielen der UN-Agenda 2030) zu orientieren. Naheliegend wäre allerdings auch, einfach das Thema zu wählen, das dir selbst wichtig ist. 
 
