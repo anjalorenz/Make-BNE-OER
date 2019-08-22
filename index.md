@@ -9,5 +9,4 @@ Der Kurs ist konzipiert für Bildungsakteurinnen und -akteure, aber kann selbstv
 ### Danke Nele!
 
 Dieser Minikurs wurde ursprünglich von [Nele Hirsch](https://twitter.com/ebildungslabor) vom [eBildungslabor](https://ebildungslabor.de/) bereitgestellt. Sie hat ihn unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) veröffentlicht, weshalb ich sie hier nicht einmal erwähnen müsste.
-
 Tipp: Abonniert den [Newsletter von Nele](http://edumail.ebildungslabor.de/), da stehen immer wieder tolle neue Ideen und Tools drin!
