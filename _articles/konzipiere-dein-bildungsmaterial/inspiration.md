@@ -21,7 +21,7 @@ Im Schulwettbewerb 'Eine Welt für alle' werden alle 2 Jahre gelungene Schulproj
 
 [Hier kannst du dir diese Clips ansehen.](https://www.eineweltfueralle.de/rueckblick/schulwettbewerb-20172018.html)
 
-### Inspirationsquelle 2: Portal Globales Lernen
+### Inspirationsquelle 3: Portal Globales Lernen
 
 Auf dieser zentralen Plattform für BNE und Globales Lernen gibt es eine umfangreiche Datenbank für Unterrichtsmaterialien, die inhaltliche und methodische Anregungen für die Entwicklung von BNE-OER geben. Das gilt auch für die die Rubrik „Fokusthemen“ auf der Startseite des Portals.
 
