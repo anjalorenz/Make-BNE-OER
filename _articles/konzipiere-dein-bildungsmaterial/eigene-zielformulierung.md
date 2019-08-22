@@ -8,7 +8,7 @@ summary: "Du formulierst Dein Ziel für das geplante Bildungsmaterial."
 
 ---
 
-Für viele ist bei digitalen Bildungsmaterialien, die dann auch noch OER sein sollen, erst einmal vieles neu. Am besten tust du dichh mit anderen zusammen und ihr lasst euch von euren Lehrkräften oder der Gruppenleitung beraten. Auch für sie wird manches neu und dieser Kurs vielleicht eine Hilfe sein.
+Für viele ist bei digitalen Bildungsmaterialien, die dann auch noch OER sein sollen, erst einmal vieles neu. Am besten tust du dich mit anderen zusammen und ihr lasst euch von euren Lehrkräften oder der Gruppenleitung beraten. Auch für sie wird manches neu und dieser Kurs vielleicht eine Hilfe sein.
 
 ### Das Ziel formulieren und die Arbeitsformen klären
 
