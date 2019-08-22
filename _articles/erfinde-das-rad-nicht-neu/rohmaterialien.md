@@ -16,7 +16,7 @@ Um Rohmaterialien mit einer offenen Lizenz zu finden, bietet es sich an, dafür 
 
 Von der Organisation irights werden einige empfehlenswerte Online-Datenbanken für offene Medien in [ihrem Blog](https://irights.info/artikel/nicht-nur-kostenlos-sondern-frei-zehn-anlaufstellen-fuer-bilder-im-netz/22457) zusammengestellt. 
 
-Wir empfehlen zur Suche nach Bildern und Videos die Datenbank [Pixabay](https://pixabay.com). Hier findet sich eine große Auswahl an gemeinfreien Medien. Gemeinfrei bedeutet, dass du sie ohne Angabe eines Lizenzhinweises weiter nutzen kannst. Das vereinfacht die Gestaltung von Bildungsmaterialien oft sehr.
+Wir empfehlen zur Suche nach Bildern und Videos die Suche von [Creative Commons](https://search.creativecommons.org/). Hier findet sich auch eine große Auswahl an gemeinfreien Medien. Gemeinfrei bedeutet, dass du sie ohne Angabe eines Lizenzhinweises weiter nutzen kannst. Das vereinfacht die Gestaltung von Bildungsmaterialien oft sehr. Die entsprechende Lizenz ist [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Falls du keine gemeinfreien Medien findest, solltest du deine Suche auf Materialien ausweiten, die unter einer CC BY oder einer CC BY SA Lizenz stehen. Eine gute Anlaufstelle ist hierzu z. B. die Wikipedia oder Wikimedia Commons. In diesen Fällen darfst du die Materialien weiter nutzen, musst aber einen Lizenzhinweis dazu angeben.
 
