@@ -11,4 +11,4 @@ contents:
 following: _articles/konzipiere-dein-bildungsmaterial/leitfragen-zur-reflexion.md
 ---
 
-Diese erste Einheit legt die Grundlage für die Gestaltung eines guten OER für BNE: Wir begleiten dich bei der Konzeption. Wichtig ist diese Einheit vor allem deshalb, weil wir OER als zeitgemäße Bildungsmaterialien gestalten wollen. Das erfordert eine andere Herangehensweise als 'nur' eine offene Lizenz auf ein pdf-Dokument zu setzen.
+Diese erste Einheit legt die Grundlage für die Gestaltung eines guten OER: Wir begleiten dich bei der Konzeption. Wichtig ist diese Einheit vor allem deshalb, weil wir OER als zeitgemäße Bildungsmaterialien gestalten wollen. Das erfordert eine andere Herangehensweise als 'nur' eine offene Lizenz auf ein pdf-Dokument zu setzen.
