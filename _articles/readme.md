@@ -6,7 +6,7 @@ following: _articles/konzipiere-dein-bildungsmaterial.md
 
 ### Worum geht es im Online-Kurs *Make OER*?
 
-**OER** ist die Abkürzung für **Open Educational Resources (= offene/freie Bildungsmaterialien)**. Der zentrale Unterschied zwischen einem OER und einem traditionellen Bildungsmaterial ist die Art und Weise der Veröffentlichung:
+*OER* ist die Abkürzung für *Open Educational Resources (= offene/freie Bildungsmaterialien)*. Der zentrale Unterschied zwischen einem OER und einem traditionellen Bildungsmaterial ist die Art und Weise der Veröffentlichung:
 * OER-Bildungsmaterial wird unter einer freien Lizenz veröffentlicht.
 * Traditionelles Bildungsmaterial ist proprietär, d. h. herstellergebunden.
 
