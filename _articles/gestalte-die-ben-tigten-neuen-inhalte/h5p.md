@@ -26,6 +26,6 @@ Aus der Perspektive der Bildung für Nachhaltige Entwicklung spricht zudem für 
 
 ### {{ site.assignment }} Deine ersten Schritte mit H5P
 
-Um H5P auszuprobieren, legst du dir am besten einen Account auf der [H5P Website](https://www.h5p.org) an. Dann kannst du direkt mit dem Erstellen unterschiedlicher H5P-Inhaltstypen beginnen.
+Um H5P auszuprobieren, legst du dir am besten einen Account auf der [H5P Website](https://h5p.org/) an. Dann kannst du direkt mit dem Erstellen unterschiedlicher H5P-Inhaltstypen beginnen.
 
 Um H5P zunächst genauer kennen zu lernen, findest du auf oncampus einen kostenfreien MOOC (d. h. offenen Online-Kurs) zu H5P: [Einstieg H5P](https://www.oncampus.de/course/weiterbildung/moocs/einstieg-in-h5p)
