@@ -19,7 +19,7 @@ Das OER-Projekt Edulabs hat eine Sammlung von gelungenen OER-Unterrichtsbeispiel
 
 Im Schulwettbewerb 'Eine Welt für alle' werden alle 2 Jahre gelungene Schulprojekte zum globalen Lernen ausgezeichnet. Die nominierten Beiträge werden dabei in einem kurzen Videoclip porträtiert. 
 
-[Hier kannst du dir diese Clips ansehen.](https://www.eineweltfueralle.de/rueckblick/rueckblick.html)
+[Hier kannst du dir diese Clips ansehen.](https://www.eineweltfueralle.de/rueckblick/schulwettbewerb-20172018.html)
 
 ### Inspirationsquelle 2: Portal Globales Lernen
 
