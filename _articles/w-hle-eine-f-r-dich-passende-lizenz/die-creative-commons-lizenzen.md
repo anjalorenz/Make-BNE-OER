@@ -4,7 +4,7 @@ title: "Wähle eine für Dich passende Lizenz"
 module: "3.1"
 date: 2016-10-06 14:05:56
 following: _articles/w-hle-eine-f-r-dich-passende-lizenz/der-cc-licence-chooser.md
-summary: "In dieser Einheit lernst Du verschiedene CC Lizenzen und unsere Empfehlung kennen."
+summary: "In dieser Einheit lernst du verschiedene CC-Lizenzen und unsere Empfehlung kennen."
 
 ---
 
@@ -12,7 +12,11 @@ summary: "In dieser Einheit lernst Du verschiedene CC Lizenzen und unsere Empfeh
 
 In der vorherigen Einheit sind uns die Creative Commons Lizenzen auf der Suche nach Rohmaterialien bereits begegnet. Wir haben bereits gelernt, dass es zum einen gemeinfreie (Public Domain, CC0) Materialien gibt, die einfach so ohne Lizenzhinweis weiter verwendet werden können, und Materialien mit einer CC Lizenz, die man nur mit Lizenzhinweis (den wir mit der TULLU-Regel schreiben) weiter nutzen darf. 
 
-Einen guten Überblick über die Entscheidungswege für eine bestimmte Lizenz gibt [dieser Überblick von wb-web](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html).
+Einen guten Überblick über die Entscheidungswege für eine bestimmte Lizenz gibt diese Grafik von Jöran Muuß-Merholz:
+
+![Die richtige Lizenz auswählen](https://wb-web.de/_Resources/Persistent/b2ca4db51098d85aca431d538608ac0e0b14fa8c/DI_OER_CL_CCLizenzUeberblick_Final_150924.jpg "Die richtige Lizenz auswählen")
+
+[dieser Überblick von wb-web](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html).
 
 ### Unsere Empfehlung
 
