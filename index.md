@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Dieser Mini-Online-Kurs Make OER führt dich Schritt für Schritt zu deinem eigenen OER. Du benötigst dazu keinerlei Vorkenntnisse.
+Dieser **Mini-Online-Kurs** Make OER führt dich Schritt für Schritt zu deinem eigenen OER. Du benötigst dazu keinerlei Vorkenntnisse.
 Der Kurs ist konzipiert für Bildungsakteurinnen und -akteure, aber kann selbstverständlich auch von allen anderen Interessierten genutzt werden.
 
 ### Danke Nele!
