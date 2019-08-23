@@ -14,4 +14,4 @@ Dieser Minikurs wurde ursprünglich von [Nele Hirsch](https://twitter.com/ebildu
 ### Förderung
 Diese Seite wurde im Rahmen des Projekts <a href="https://jointly.info/" target="blank">JOINTLY</a> angepasst.
 
-<img src="https://jointly.info/wp-content/uploads/sites/14/2017/09/bmbf_logo.svg"/ height="150px">
+<img src="https://jointly.info/wp-content/uploads/sites/14/2017/09/bmbf_logo.svg" height="150px"/>
