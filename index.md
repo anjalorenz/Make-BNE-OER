@@ -11,7 +11,7 @@ Dieser Minikurs wurde ursprünglich von [Nele Hirsch](https://twitter.com/ebildu
 
 *Tipp: Abonniert den [Newsletter von Nele](http://edumail.ebildungslabor.de/), da stehen immer wieder tolle neue Ideen und Tools drin!*
 
-### Projekt JOINTLY
+### Förderung
 Diese Seite wurde im Rahmen des Projekts <a href="https://jointly.info/" target="blank">JOINTLY</a> angepasst.
 
-<img src="https://jointly.info/wp-content/uploads/sites/14/2017/09/bmbf_logo.svg"/>
+<img src="https://jointly.info/wp-content/uploads/sites/14/2017/09/bmbf_logo.svg"/ height="150px">
