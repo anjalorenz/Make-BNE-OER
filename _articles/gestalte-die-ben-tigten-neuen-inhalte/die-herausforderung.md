@@ -12,7 +12,7 @@ summary: "In dieser Einheit geht es um die Anwendungsmöglichkeiten der vorgeste
 
 Die Leitfrage bei der Erstellung von guten OER sollte lauten:
 
-> Mit welchen Materialien können wir/ können andere erfolgreiche Bildungsprozesse gestalten?
+> Mit welchen Materialien können wir und andere andere erfolgreiche Bildungsprozesse gestalten?
 
 Das Potential von OER liegt dabei nicht nur in den Inhalten des jeweiligen Materials, sondern insbesondere auch in den Möglichkeiten zur Weiternutzung.
 
