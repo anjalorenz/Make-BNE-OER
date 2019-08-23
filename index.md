@@ -10,3 +10,9 @@ Der Kurs ist konzipiert für Bildungsakteurinnen und -akteure, aber kann selbstv
 Dieser Minikurs wurde ursprünglich von [Nele Hirsch](https://twitter.com/ebildungslabor) vom [eBildungslabor](https://ebildungslabor.de/) bereitgestellt. Sie hat ihn unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) veröffentlicht, weshalb ich sie hier nicht einmal erwähnen müsste.
 
 *Tipp: Abonniert den [Newsletter von Nele](http://edumail.ebildungslabor.de/), da stehen immer wieder tolle neue Ideen und Tools drin!*
+
+### Projekt JOINTLY
+Diese Seite wurde im Rahmen des Projekts JOINTLY angepasst.
+<img src="https://jointly.info/wp-content/uploads/sites/14/2016/11/jointly-Logo.svg"/>
+
+<img src="https://jointly.info/wp-content/uploads/sites/14/2017/09/bmbf_logo.svg"/>
