@@ -13,6 +13,7 @@ Dieser Minikurs wurde ursprünglich von [Nele Hirsch](https://twitter.com/ebildu
 
 ### Projekt JOINTLY
 Diese Seite wurde im Rahmen des Projekts JOINTLY angepasst.
+
 <img src="https://jointly.info/wp-content/uploads/sites/14/2016/11/jointly-Logo.svg"/>
 
 <img src="https://jointly.info/wp-content/uploads/sites/14/2017/09/bmbf_logo.svg"/>
